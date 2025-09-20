@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./github-metrics.svg" style="width: 100%;"/>
+<img src="./github-metrics.svg" style="max-width: 100%;"/>
